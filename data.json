@@ -1,0 +1,25 @@
+{
+    "Books":[
+        {
+            "Name": "The Algorithm Design Manual (Texts in Computer Science)",
+            "ISBN": "978-3030542559",
+            "Rank": 144672
+        },
+        {
+            "Name": "Programming Challenges: The Programming Contest Training Manual (Texts in Computer Science)",
+            "ISBN": "978-0387001630",
+            "Rank": 647623
+        },
+        {
+            "Name": "Calculated Bets: Computers, Gambling, and Mathematical Modeling to Win (Outlooks)",
+            "ISBN": "978-0521009621",
+            "Rank": 1670946
+        },
+        {
+            "Name": "Desafíos de programación: El manual de entrenamiento para concursos de programación (Spanish Edition)",
+            "ISBN": "978-8412238044",
+            "Rank": 3778839
+        }
+    ],
+    "Count": 4
+}
