@@ -14,10 +14,13 @@
 ## Data Collection:
 - For data collection of Amazon best-seller ranks for books written by Steven S. Skiena. I first tried to create a web scrapper using python that would pull this data from Amazon. This failed due to the Amazon website blocks it's user from using a web scrapper on there website. Due to this I had to manually pull the data from the website then I store the data in a JSON file for later data analysis and visualization.
 - Error when trying to web scrap Amazon:
+![amazon_blocking_scraper](https://github.com/themnsavage/Amazon_Best_Seller_Rank/assets/60998598/d9d614b1-9189-4501-a2d0-bc971552aff8)
 
 ## Data Analysis and Visualization:
 - For data analysis and visualization I use the python library matplotlib for creating a bar graph then with this bar graph I could analysis the data.
 - Bar graph:
+![image](https://github.com/themnsavage/Amazon_Best_Seller_Rank/assets/60998598/75093cc9-c1a4-4d9f-a689-d3549c8941f5)
+
 
 ## Results/Book Recommendation: The Algorithm Design Manual (Texts in Computer Science)
 - ### Recommendation Justification:
