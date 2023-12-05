@@ -9,6 +9,8 @@
 ## Run program:
 - run make command `make run`
 
+# Technical Report
+
 ## Methodology:
 - For this project the objective I wanted to analyze the Amazon best-seller ranks for books written by Steven S. Skiena and recommend a book for purchase. So this consist of gathering the data on Amazon then analyze the data using python libraries and with this information I would recommend a book for purchase.
 
